@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\bin\Debug\TweenSharp.dll
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\bin\Debug\TweenSharp.pdb
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\obj\Debug\TweenSharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\obj\Debug\TweenSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\obj\Debug\TweenSharp.dll
+C:\Users\Administrator\Documents\Projects\C#.NET\TweenSharp\TweenSharp\TweenSharp\obj\Debug\TweenSharp.pdb
